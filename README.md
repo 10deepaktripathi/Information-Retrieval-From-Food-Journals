@@ -2,6 +2,16 @@
  Text files inside data folder contains metadata from around 5000 journal articles within the food technology sector. Within this data, you will see variables such as 'authors', 'journal', 'year' and 'abstract'. 
  Task is to import this data, analyse it using your NLP skills, highlight any conclusions or findings you make and display such output on a dashboard. 
 
+# Directory Structure
+
+- [Information Retrieval From Food Journals.ipynb](./Information Retrieval From Food Journals.ipynb): Notebook contains code related to analysis.
+- [model_tuning.ipynb](./model_tuning.ipynb): Notebook containing model architectures and parameters for fine-tuning clinical BERT model.
+- [preprocess_data.ipynb](./preprocess_data.ipynb): Notebook containing code for preprocessing ClinicNotes and Medical Keyword files.
+- [Detailed Report on Embedding Analysis](./detaild_report_on_embedding_analysis.pdf): A detailed PDF report about this case study
+- [charts](./charts): Contains all the charts that were drawn on this project.
+- [data](./data): Contains all the data files models are getting analyized or finetuned on.
+
+
  Following are few insights that i have fetched form data-
 
 # Abstract Basic Stats
