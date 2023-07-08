@@ -43,3 +43,6 @@
 
 # Top 10 Journals
 ![Chart](Charts/top_journals.png)
+
+# Top 10 Collaborations
+![Chart](Charts/collaborations_freq.png)
