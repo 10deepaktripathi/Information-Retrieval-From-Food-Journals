@@ -23,7 +23,7 @@
 # Top Keywords according to LDA
 ![Chart](Charts/lda_top_keywords.png)
 
-# Topic Modelling Usin LDA
+# Topic Modelling Usin BERTopic
 ![Chart](Charts/bert_topic_cluster.png)
 # Top Keywords according to BERTopic
 ![Chart](Charts/bert_top_keywords.png)
