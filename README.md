@@ -7,7 +7,7 @@
 - [Information Retrieval From Food Journals.ipynb](./Information%20Retrieval%20From%20Food%20Journals.ipynb): Notebook contains code related to analysis.
 - [presentation_information_retrieval.pdf](./presentation_information_retrieval.pdf): A presentation about the analysis
 - [charts](./Charts): Contains all the charts that were drawn on this project.
-- [data](./data): Contains all the data files models are getting analyized or finetuned on.
+- [data](./data): Contains all the data files which are getting analyzed.
 
 
 ## Following are few insights that i have fetched form data-
