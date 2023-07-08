@@ -4,13 +4,13 @@
 
 # Directory Structure
 
-- [Information Retrieval From Food Journals.ipynb](./Information Retrieval From Food Journals.ipynb): Notebook contains code related to analysis.
+- [Information Retrieval From Food Journals.ipynb](./Information%20Retrieval%20From%20Food%20Journals.ipynb): Notebook contains code related to analysis.
 - [presentation_information_retrieval.pdf](./presentation_information_retrieval.pdf): A detailed PDF report about this case study
 - [charts](./Charts): Contains all the charts that were drawn on this project.
 - [data](./data): Contains all the data files models are getting analyized or finetuned on.
 
 
- Following are few insights that i have fetched form data-
+## Following are few insights that i have fetched form data-
 
 # Abstract Basic Stats
 
