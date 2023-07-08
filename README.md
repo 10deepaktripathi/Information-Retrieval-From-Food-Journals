@@ -6,8 +6,6 @@
 
 
 ![Chart](Charts/abstract_length_dist.png)
-![Chart](Charts/top_authors.png)
-![Chart](Charts/top_journals.png)
 ![Chart](Charts/unigrams.png)
 ![Chart](Charts/bigrams.png)
 ![Chart](Charts/noun_phrases.png)
@@ -20,3 +18,6 @@
 ![Chart](Charts/bert_topic_over_time.png)
 ![Chart](Charts/top_chamicals.png)
 ![Chart](Charts/top_foods.png)
+
+![Chart](Charts/top_authors.png)
+![Chart](Charts/top_journals.png)
