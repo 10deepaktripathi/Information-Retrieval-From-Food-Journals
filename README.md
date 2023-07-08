@@ -5,9 +5,9 @@
  Following are few insights that i have fetched form data-
 
 
- ![Chart](Charts/word2vec_96.png)
-![Chart](Charts/Elmo_1024.png)
-![Chart](Charts/BERT_768.png)
-![Chart](Charts/BioBERT_768.png)
-![Chart](Charts/ClinicalBERT_768.png)
-![Chart](Charts/BlueBERT_768.png)
+![Chart](Charts/abstract_length_dist.png)
+![Chart](Charts/top_authors.png)
+![Chart](Charts/top_journals.png)
+![Chart](Charts/unigrams.png)
+![Chart](Charts/bigrams.png)
+![Chart](Charts/noun_phrases.png)
