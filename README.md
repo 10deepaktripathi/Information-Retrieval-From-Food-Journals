@@ -13,7 +13,7 @@
 # Most frequent noun Phrases in abstract
 ![Chart](Charts/noun_phrases.png)
 
-Sentiment Ansysis on abstract
+# Sentiment Ansysis on abstract
 ![Chart](Charts/sentiment.png)
 
 # Topic Modelling Usin LDA
