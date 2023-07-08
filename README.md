@@ -5,10 +5,8 @@
 # Directory Structure
 
 - [Information Retrieval From Food Journals.ipynb](./Information Retrieval From Food Journals.ipynb): Notebook contains code related to analysis.
-- [model_tuning.ipynb](./model_tuning.ipynb): Notebook containing model architectures and parameters for fine-tuning clinical BERT model.
-- [preprocess_data.ipynb](./preprocess_data.ipynb): Notebook containing code for preprocessing ClinicNotes and Medical Keyword files.
-- [Detailed Report on Embedding Analysis](./detaild_report_on_embedding_analysis.pdf): A detailed PDF report about this case study
-- [charts](./charts): Contains all the charts that were drawn on this project.
+- [presentation_information_retrieval.pdf](./presentation_information_retrieval.pdf): A detailed PDF report about this case study
+- [charts](./Charts): Contains all the charts that were drawn on this project.
 - [data](./data): Contains all the data files models are getting analyized or finetuned on.
 
 
