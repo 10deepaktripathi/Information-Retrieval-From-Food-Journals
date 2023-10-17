@@ -9,7 +9,6 @@
 - [charts](./Charts): Contains all the charts that were drawn on this project.
 - [data](./data): Contains all the data files which are getting analyzed.
 
-
 # Following are few insights that i have fetched form data-
 
 # Abstract Basic Stats
